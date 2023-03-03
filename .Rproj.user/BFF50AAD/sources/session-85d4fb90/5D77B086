@@ -1,0 +1,28 @@
+{
+    "id": "5D77B086",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1677854835315.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "cbb6200465c74c66abfa972d36c0ba5e",
+        "name": "Geodaten_all",
+        "title": "Geodaten_all",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 128,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677854835315,
+    "read_only": false,
+    "read_only_alternatives": []
+}
