@@ -67,6 +67,3 @@ convert_column_to_binary_factor <- function(data, column_name) {
   return(data)
 }
 
-Fahrzeug_Daten <- convert_column_to_binary_factor(Fahrzeuge_OEM1_Typ11, Fahrzeuge_OEM1_Typ11$Fehlerhaft)
-
-fread
