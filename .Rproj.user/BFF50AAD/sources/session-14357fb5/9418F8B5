@@ -3,7 +3,7 @@
     "path": "~/Documents/TU Berlin aktuelles Semester (6)/IDA Case Study/Case_Study_Gruppe_14/Case_Study_App_14.R",
     "project_path": "Case_Study_App_14.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2287979932",
     "contents": "",
     "dirty": false,
     "created": 1677754333598.0,
@@ -12,17 +12,17 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "46,0",
-        "scrollLine": "8",
+        "cursorPosition": "47,1",
+        "scrollLine": "23",
         "docOutlineVisible": "1",
         "docOutlineSize": "37"
     },
-    "folds": "18|33|20|0|\n32|38|34|0|\n37|38|39|0|\n42|40|44|0|\n",
-    "lastKnownWriteTime": 1677855763,
+    "folds": "18|33|20|0|\n28|38|31|0|\n33|38|36|0|\n38|40|47|0|\n49|40|52|0|\n",
+    "lastKnownWriteTime": 1678023206,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677855771526,
+    "last_content_update": 1678023206998,
     "read_only": false,
     "read_only_alternatives": []
 }
