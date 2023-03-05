@@ -53,4 +53,4 @@ Komponentendaten_all <- set_names(Komponentendaten_all, str_sub(Komponente_paths
 # 
 # 
 
-
+#Git Test
